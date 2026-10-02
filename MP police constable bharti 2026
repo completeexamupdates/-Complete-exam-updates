@@ -1,0 +1,1297 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="description" content="MP Police Constable GD Recruitment 2026 - 7500 पद, category wise vacancy, eligibility, age, fee, exam pattern, physical test, syllabus, salary and selection process.">
+<meta name="keywords" content="MP Police Constable 2026, MP Police GD, 7500 Vacancy, MPESB Police Constable, MP Police Vacancy 2026">
+<title>MP Police Constable GD 2026 | Complete Exam Updates</title>
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+font-family:Arial,"Noto Sans Devanagari",sans-serif;
+background:#020617;
+color:#fff;
+line-height:1.65;
+overflow-x:hidden;
+}
+body:before{
+content:"";
+position:fixed;
+inset:0;
+z-index:-2;
+background:
+radial-gradient(circle at 15% 10%,#075985 0,transparent 28%),
+radial-gradient(circle at 85% 15%,#4c1d95 0,transparent 30%),
+radial-gradient(circle at 50% 90%,#172554 0,transparent 35%);
+}
+body:after{
+content:"";
+position:fixed;
+inset:0;
+z-index:-1;
+opacity:.12;
+background-image:
+linear-gradient(#38bdf8 1px,transparent 1px),
+linear-gradient(90deg,#38bdf8 1px,transparent 1px);
+background-size:45px 45px;
+}
+
+:root{
+--blue:#38bdf8;
+--deep:#2563eb;
+--yellow:#facc15;
+--green:#22c55e;
+--red:#ef4444;
+--glass:rgba(15,23,42,.82);
+--border:rgba(148,163,184,.22);
+}
+
+header{
+position:sticky;
+top:0;
+z-index:9999;
+background:rgba(2,6,23,.88);
+backdrop-filter:blur(20px);
+border-bottom:1px solid var(--border);
+}
+
+.nav{
+max-width:1250px;
+width:94%;
+margin:auto;
+min-height:70px;
+display:flex;
+align-items:center;
+justify-content:space-between;
+}
+
+.logo{
+font-size:21px;
+font-weight:900;
+color:var(--blue);
+text-shadow:0 0 20px #0ea5e9;
+}
+.logo span{color:var(--yellow)}
+
+.menu{
+display:none;
+font-size:28px;
+cursor:pointer;
+}
+
+.links{
+display:flex;
+gap:5px;
+}
+.links a{
+text-decoration:none;
+color:#cbd5e1;
+font-size:13px;
+padding:8px 11px;
+border-radius:20px;
+transition:.3s;
+}
+.links a:hover{
+background:var(--deep);
+color:white;
+}
+
+.container{
+width:94%;
+max-width:1200px;
+margin:auto;
+}
+
+section{
+padding:65px 0;
+}
+
+.hero{
+min-height:650px;
+display:flex;
+align-items:center;
+justify-content:center;
+text-align:center;
+padding:70px 15px;
+}
+
+.hero-inner{max-width:1050px}
+
+.badge{
+display:inline-block;
+padding:8px 18px;
+border-radius:50px;
+border:1px solid #ef4444;
+background:#7f1d1d55;
+color:#fecaca;
+font-weight:bold;
+margin-bottom:25px;
+}
+
+.hero h1{
+font-size:clamp(42px,8vw,86px);
+font-weight:1000;
+line-height:1;
+margin-bottom:25px;
+background:linear-gradient(90deg,#fff,#38bdf8,#a78bfa,#facc15);
+-webkit-background-clip:text;
+color:transparent;
+}
+
+.hero h1 small{
+display:block;
+font-size:.35em;
+letter-spacing:5px;
+margin-bottom:12px;
+color:#cbd5e1;
+}
+
+.hero p{
+font-size:19px;
+color:#cbd5e1;
+max-width:850px;
+margin:auto;
+}
+
+.buttons{
+display:flex;
+justify-content:center;
+gap:14px;
+flex-wrap:wrap;
+margin-top:30px;
+}
+
+.btn{
+padding:14px 25px;
+border-radius:16px;
+text-decoration:none;
+font-weight:900;
+box-shadow:0 15px 35px #0008;
+transition:.3s;
+}
+.btn:hover{
+transform:translateY(-5px) scale(1.03);
+}
+.blue{
+background:linear-gradient(135deg,#2563eb,#0891b2);
+color:#fff;
+}
+.yellow{
+background:linear-gradient(135deg,#facc15,#f97316);
+color:#111;
+}
+.green{
+background:linear-gradient(135deg,#16a34a,#06b6d4);
+color:white;
+}
+
+.heading{
+text-align:center;
+margin-bottom:35px;
+}
+.heading small{
+color:var(--blue);
+letter-spacing:3px;
+font-weight:bold;
+}
+.heading h2{
+font-size:clamp(28px,5vw,44px);
+margin-top:5px;
+}
+.heading span{color:var(--yellow)}
+
+.grid{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:20px;
+}
+
+.card{
+background:linear-gradient(145deg,#1e293bee,#0f172ae8);
+border:1px solid var(--border);
+border-radius:25px;
+padding:25px;
+box-shadow:15px 20px 45px #0009,inset 1px 1px #ffffff15;
+transition:.25s;
+transform-style:preserve-3d;
+}
+.card:hover{
+border-color:#38bdf8;
+box-shadow:0 25px 55px #000b,0 0 35px #38bdf822;
+}
+.icon{
+font-size:38px;
+margin-bottom:7px;
+}
+.card h3{
+color:var(--yellow);
+margin-bottom:7px;
+}
+.card p{
+font-size:14px;
+color:#cbd5e1;
+}
+
+.big{
+font-size:36px;
+font-weight:1000;
+color:var(--blue);
+}
+
+.stats{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:20px;
+margin-top:25px;
+}
+
+.stat{
+text-align:center;
+padding:30px;
+border-radius:25px;
+background:linear-gradient(145deg,#111827,#1e293b);
+border:1px solid var(--border);
+box-shadow:0 20px 45px #0008;
+}
+.stat b{
+display:block;
+font-size:45px;
+color:var(--blue);
+}
+
+.notice{
+padding:25px;
+border-radius:22px;
+background:#0f172ae8;
+border:1px solid #38bdf855;
+box-shadow:0 20px 45px #0007;
+margin:20px 0;
+}
+.notice strong{color:var(--yellow)}
+
+.table-wrap{
+overflow-x:auto;
+border-radius:20px;
+border:1px solid #334155;
+box-shadow:0 20px 45px #0008;
+margin:20px 0;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+min-width:760px;
+background:#0f172af2;
+}
+th,td{
+padding:13px 14px;
+border-bottom:1px solid #334155;
+text-align:center;
+}
+th{
+background:linear-gradient(135deg,#1d4ed8,#0e7490);
+color:#fff;
+}
+td{color:#cbd5e1}
+.total{
+font-weight:bold;
+color:var(--yellow);
+}
+
+.countdown{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:15px;
+max-width:850px;
+margin:30px auto;
+}
+.time{
+text-align:center;
+padding:22px;
+border-radius:20px;
+background:linear-gradient(145deg,#111827,#1e293b);
+border:1px solid #334155;
+box-shadow:0 20px 40px #0008;
+}
+.time b{
+display:block;
+font-size:38px;
+color:var(--blue);
+}
+
+.timeline{
+max-width:900px;
+margin:auto;
+position:relative;
+}
+.timeline:before{
+content:"";
+position:absolute;
+left:21px;
+top:0;
+bottom:0;
+width:3px;
+background:#2563eb;
+}
+.step{
+position:relative;
+padding:0 0 32px 65px;
+}
+.num{
+position:absolute;
+left:0;
+top:0;
+width:43px;
+height:43px;
+border-radius:50%;
+display:grid;
+place-items:center;
+background:linear-gradient(135deg,#2563eb,#06b6d4);
+font-weight:bold;
+box-shadow:0 0 25px #2563eb88;
+}
+
+.subjects{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:20px;
+}
+.subject{
+padding:25px;
+border-radius:22px;
+background:linear-gradient(145deg,#111827,#1e293b);
+border:1px solid #334155;
+}
+.subject h3{
+color:var(--blue);
+margin-bottom:10px;
+}
+.subject li{
+list-style:none;
+color:#cbd5e1;
+padding:5px 0;
+}
+.subject li:before{
+content:"✓";
+color:var(--green);
+font-weight:bold;
+margin-right:8px;
+}
+
+.physical-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:20px;
+}
+
+.physical-card{
+padding:25px;
+border-radius:25px;
+background:linear-gradient(145deg,#111827,#1e293b);
+border:1px solid var(--border);
+text-align:center;
+box-shadow:0 20px 45px #0008;
+}
+.physical-card b{
+display:block;
+font-size:35px;
+color:var(--blue);
+}
+
+.faq{
+max-width:950px;
+margin:12px auto;
+background:#0f172ae8;
+border:1px solid #334155;
+border-radius:18px;
+overflow:hidden;
+}
+.question{
+padding:18px;
+font-weight:bold;
+cursor:pointer;
+display:flex;
+justify-content:space-between;
+gap:15px;
+}
+.answer{
+display:none;
+padding:0 18px 18px;
+color:#cbd5e1;
+}
+.faq.open .answer{display:block}
+.plus{color:var(--blue);font-size:22px}
+
+.link-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:20px;
+}
+.link{
+text-decoration:none;
+color:white;
+padding:30px;
+border-radius:23px;
+text-align:center;
+font-weight:bold;
+background:linear-gradient(135deg,#172554,#0e7490);
+border:1px solid #ffffff22;
+transition:.3s;
+}
+.link:hover{transform:translateY(-7px)}
+
+footer{
+padding:50px 0;
+text-align:center;
+background:#01030b;
+border-top:1px solid #1e293b;
+color:#94a3b8;
+}
+
+footer h3{color:var(--blue)}
+
+#top{
+position:fixed;
+right:20px;
+bottom:20px;
+width:50px;
+height:50px;
+border:0;
+border-radius:50%;
+background:#2563eb;
+color:white;
+font-size:20px;
+display:none;
+z-index:999;
+}
+
+@media(max-width:950px){
+.grid{grid-template-columns:repeat(2,1fr)}
+.subjects{grid-template-columns:1fr 1fr}
+}
+
+@media(max-width:700px){
+
+.menu{display:block}
+
+.links{
+display:none;
+position:absolute;
+top:70px;
+left:3%;
+width:94%;
+padding:15px;
+background:#020617f7;
+border:1px solid #334155;
+border-radius:20px;
+flex-direction:column;
+}
+.links.show{display:flex}
+
+.hero{
+min-height:570px;
+}
+
+.grid,
+.stats,
+.subjects,
+.physical-grid,
+.link-grid{
+grid-template-columns:1fr;
+}
+
+.countdown{
+grid-template-columns:repeat(2,1fr);
+}
+
+.hero p{font-size:16px}
+
+section{padding:50px 0}
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<div class="nav">
+
+<div class="logo">
+🚔 Complete <span>Exam Updates</span>
+</div>
+
+<div class="menu" onclick="toggleMenu()">☰</div>
+
+<nav class="links" id="nav">
+<a href="#overview">Overview</a>
+<a href="#vacancy">Vacancy</a>
+<a href="#eligibility">Eligibility</a>
+<a href="#exam">Exam</a>
+<a href="#physical">Physical</a>
+<a href="#selection">Selection</a>
+<a href="#faq">FAQ</a>
+</nav>
+
+</div>
+</header>
+
+
+<!-- HERO -->
+
+<section class="hero">
+<div class="hero-inner">
+
+<div class="badge">
+🚨 MP POLICE CONSTABLE GD RECRUITMENT 2026
+</div>
+
+<h1>
+<small>मध्यप्रदेश पुलिस</small>
+CONSTABLE GD
+</h1>
+
+<p>
+<strong>7,500 पदों</strong> की MP Police Constable
+(GD) Recruitment 2026 की Rule Book आधारित
+A to Z जानकारी।
+</p>
+
+<div class="buttons">
+
+<a class="btn blue"
+href="https://esb.mp.gov.in/"
+target="_blank">
+📝 APPLY ONLINE
+</a>
+
+<a class="btn yellow"
+href="https://esb.mp.gov.in/rulebooks/rule_books.htm"
+target="_blank">
+📄 OFFICIAL RULEBOOK
+</a>
+
+<a class="btn green"
+href="#vacancy">
+📊 CATEGORY WISE VACANCY
+</a>
+
+</div>
+
+</div>
+</section>
+
+
+<!-- OVERVIEW -->
+
+<section id="overview">
+<div class="container">
+
+<div class="heading">
+<small>01 • OFFICIAL OVERVIEW</small>
+<h2>भर्ती का <span>Overview</span></h2>
+</div>
+
+<div class="grid">
+
+<div class="card">
+<div class="icon">👮</div>
+<h3>Post</h3>
+<div class="big">आरक्षक GD</div>
+<p>Police Constable General Duty</p>
+</div>
+
+<div class="card">
+<div class="icon">🔥</div>
+<h3>Total Posts</h3>
+<div class="big">7,500</div>
+<p>SAF + DEF</p>
+</div>
+
+<div class="card">
+<div class="icon">🏛️</div>
+<h3>Department</h3>
+<div class="big">MP Police</div>
+<p>मध्यप्रदेश पुलिस विभाग</p>
+</div>
+
+<div class="card">
+<div class="icon">💻</div>
+<h3>Exam Board</h3>
+<div class="big">MPESB</div>
+<p>मध्यप्रदेश कर्मचारी चयन मंडल</p>
+</div>
+
+</div>
+
+<div class="stats">
+
+<div class="stat">
+<b>700</b>
+SAF GD
+</div>
+
+<div class="stat">
+<b>6,800</b>
+DEF GD
+</div>
+
+<div class="stat">
+<b>7,500</b>
+Total
+</div>
+
+</div>
+
+</div>
+</section>
+
+
+<!-- IMPORTANT DATES -->
+
+<section>
+<div class="container">
+
+<div class="heading">
+<small>02 • IMPORTANT DATES</small>
+<h2>महत्वपूर्ण <span>तिथियां</span></h2>
+</div>
+
+<div class="table-wrap">
+<table>
+<tr>
+<th>कार्य</th>
+<th>तिथि</th>
+</tr>
+<tr>
+<td>Online Form Start</td>
+<td>22-09-2026</td>
+</tr>
+<tr>
+<td>Last Date</td>
+<td>06-10-2026</td>
+</tr>
+<tr>
+<td>Correction Start</td>
+<td>22-09-2026</td>
+</tr>
+<tr>
+<td>Correction Last Date</td>
+<td>11-10-2026</td>
+</tr>
+<tr>
+<td>Exam Start</td>
+<td>19-11-2026 से</td>
+</tr>
+</table>
+</div>
+
+<div class="countdown">
+<div class="time"><b id="days">00</b>Days</div>
+<div class="time"><b id="hours">00</b>Hours</div>
+<div class="time"><b id="minutes">00</b>Minutes</div>
+<div class="time"><b id="seconds">00</b>Seconds</div>
+</div>
+
+</div>
+</section>
+
+
+<!-- VACANCY -->
+
+<section id="vacancy">
+<div class="container">
+
+<div class="heading">
+<small>03 • CATEGORY WISE VACANCY</small>
+<h2><span>7,500</span> पदों का पूरा विवरण</h2>
+</div>
+
+<div class="notice">
+<strong>⚠️ Vacancy Structure</strong><br><br>
+Rule Book के अनुसार 700 पद विशेष सशस्त्र बल
+(SAF) और 6,800 पद विशेष सशस्त्र बल को छोड़कर
+GD के हैं।
+</div>
+
+
+<h3 style="color:#38bdf8;margin-top:30px">
+🚔 SAF GD -- केवल पुरुष
+</h3>
+
+<div class="table-wrap">
+<table>
+<tr>
+<th>श्रेणी</th>
+<th>UR</th>
+<th>SC</th>
+<th>ST</th>
+<th>OBC</th>
+<th>EWS</th>
+<th>कुल</th>
+</tr>
+
+<tr>
+<td>Open</td>
+<td>142</td>
+<td>68</td>
+<td>84</td>
+<td>105</td>
+<td>74</td>
+<td>457</td>
+</tr>
+
+<tr>
+<td>Ex-Servicemen</td>
+<td>19</td>
+<td>9</td>
+<td>11</td>
+<td>14</td>
+<td>10</td>
+<td>70</td>
+</tr>
+
+<tr>
+<td>Home Guard</td>
+<td>28</td>
+<td>14</td>
+<td>17</td>
+<td>21</td>
+<td>14</td>
+<td>105</td>
+</tr>
+
+<tr class="total">
+<td>Total</td>
+<td>189</td>
+<td>91</td>
+<td>112</td>
+<td>140</td>
+<td>98</td>
+<td>700</td>
+</tr>
+
+</table>
+</div>
+
+
+<h3 style="color:#38bdf8;margin-top:40px">
+🚔 DEF GD -- SAF को छोड़कर
+</h3>
+
+<div class="table-wrap">
+<table>
+<tr>
+<th>श्रेणी</th>
+<th>UR</th>
+<th>SC</th>
+<th>ST</th>
+<th>OBC</th>
+<th>EWS</th>
+<th>कुल</th>
+</tr>
+
+<tr>
+<td>Open</td>
+<td>735</td>
+<td>353</td>
+<td>435</td>
+<td>544</td>
+<td>381</td>
+<td>2720</td>
+</tr>
+
+<tr>
+<td>Ex-Servicemen</td>
+<td>183</td>
+<td>89</td>
+<td>109</td>
+<td>136</td>
+<td>95</td>
+<td>680</td>
+</tr>
+
+<tr>
+<td>Home Guard</td>
+<td>276</td>
+<td>132</td>
+<td>163</td>
+<td>204</td>
+<td>143</td>
+<td>1020</td>
+</tr>
+
+<tr>
+<td>Female 35%</td>
+<td>642</td>
+<td>310</td>
+<td>381</td>
+<td>476</td>
+<td>333</td>
+<td>2380</td>
+</tr>
+
+<tr class="total">
+<td>Total</td>
+<td>1836</td>
+<td>884</td>
+<td>1088</td>
+<td>1360</td>
+<td>952</td>
+<td>6800</td>
+</tr>
+
+</table>
+</div>
+
+</div>
+</section>
+
+
+<!-- ELIGIBILITY -->
+
+<section id="eligibility">
+<div class="container">
+
+<div class="heading">
+<small>04 • ELIGIBILITY</small>
+<h2>शैक्षणिक <span>योग्यता</span></h2>
+</div>
+
+<div class="table-wrap">
+<table>
+<tr>
+<th>Category</th>
+<th>Minimum Qualification</th>
+</tr>
+
+<tr>
+<td>UR / SC / OBC</td>
+<td>10+2 प्रणाली के अंतर्गत 10वीं या Higher Secondary / Equivalent</td>
+</tr>
+
+<tr>
+<td>ST</td>
+<td>8वीं या Equivalent परीक्षा उत्तीर्ण</td>
+</tr>
+</table>
+</div>
+
+<div class="notice">
+<strong>🇮🇳 Domicile Rule</strong><br><br>
+मध्यप्रदेश के स्थायी निवासी नहीं होने वाले
+अभ्यर्थी केवल Unreserved Open पदों के लिए
+आवेदन कर सकते हैं। आरक्षण/आयु-छूट के लिए
+MP domicile आवश्यक है।
+</div>
+
+</div>
+</section>
+
+
+<!-- AGE -->
+
+<section>
+<div class="container">
+
+<div class="heading">
+<small>05 • AGE LIMIT</small>
+<h2>आयु सीमा एवं <span>छूट</span></h2>
+</div>
+
+<div class="table-wrap">
+<table>
+<tr>
+<th>अभ्यर्थी श्रेणी</th>
+<th>अधिकतम आयु</th>
+</tr>
+
+<tr>
+<td>MP Male UR</td>
+<td>33 वर्ष</td>
+</tr>
+
+<tr>
+<td>MP Male EWS</td>
+<td>33 वर्ष</td>
+</tr>
+
+<tr>
+<td>Other State All Candidates</td>
+<td>33 वर्ष</td>
+</tr>
+
+<tr>
+<td>All Female</td>
+<td>38 वर्ष</td>
+</tr>
+
+<tr>
+<td>MP Reserved Male SC/ST/OBC</td>
+<td>38 वर्ष</td>
+</tr>
+
+<tr>
+<td>Government Employee / Nagar Sainik Male</td>
+<td>38 वर्ष</td>
+</tr>
+
+<tr>
+<td>Inter-caste Marriage Female</td>
+<td>43 वर्ष तक</td>
+</tr>
+
+<tr>
+<td>Vikram Award Winner</td>
+<td>नियमों के अनुसार अतिरिक्त 5 वर्ष</td>
+</tr>
+</table>
+</div>
+
+<p style="color:#94a3b8">
+आयु की गणना 06-10-2026 को लागू नियमों के अनुसार की जाएगी।
+</p>
+
+</div>
+</section>
+
+
+<!-- FEE -->
+
+<section>
+<div class="container">
+
+<div class="heading">
+<small>06 • APPLICATION FEE</small>
+<h2>आवेदन <span>शुल्क</span></h2>
+</div>
+
+<div class="grid">
+
+<div class="card">
+<div class="icon">💰</div>
+<h3>UR</h3>
+<div class="big">₹500</div>
+<p>MPESB परीक्षा शुल्क</p>
+</div>
+
+<div class="card">
+<div class="icon">💰</div>
+<h3>MP SC/ST/OBC/EWS</h3>
+<div class="big">₹250</div>
+<p>केवल MP domicile</p>
+</div>
+
+<div class="card">
+<div class="icon">🏦</div>
+<h3>Department Fee UR</h3>
+<div class="big">₹200</div>
+<p>पुलिस विभागीय परीक्षा शुल्क</p>
+</div>
+
+<div class="card">
+<div class="icon">🏦</div>
+<h3>Department Fee Reserved</h3>
+<div class="big">₹100</div>
+<p>MP SC/ST/OBC candidates</p>
+</div>
+
+</div>
+
+<div class="notice">
+<strong>MPOnline Portal Fee:</strong>
+कियोस्क से आवेदन पर ₹60 तथा Registered Citizen
+User से आवेदन पर ₹20 portal fee देय है।
+</div>
+
+</div>
+</section>
+
+
+<!-- EXAM -->
+
+<section id="exam">
+<div class="container">
+
+<div class="heading">
+<small>07 • WRITTEN EXAM</small>
+<h2>Written Exam <span>Pattern</span></h2>
+</div>
+
+<div class="grid">
+
+<div class="card">
+<div class="icon">📝</div>
+<h3>Questions</h3>
+<div class="big">100</div>
+<p>MCQ Questions</p>
+</div>
+
+<div class="card">
+<div class="icon">🏆</div>
+<h3>Total Marks</h3>
+<div class="big">100</div>
+<p>हर सही उत्तर +1</p>
+</div>
+
+<div class="card">
+<div class="icon">⏱️</div>
+<h3>Time</h3>
+<div class="big">2 Hours</div>
+<p>120 Minutes</p>
+</div>
+
+<div class="card">
+<div class="icon">❌</div>
+<h3>Negative</h3>
+<div class="big">NO</div>
+<p>गलत/अनुत्तरित पर अंक नहीं कटेंगे</p>
+</div>
+
+</div>
+
+
+<div class="table-wrap">
+<table>
+<tr>
+<th>विषय</th>
+<th>अंक</th>
+</tr>
+<tr>
+<td>सामान्य ज्ञान एवं तार्किक ज्ञान</td>
+<td>40</td>
+</tr>
+<tr>
+<td>बौद्धिक क्षमता एवं मानसिक अभिरुचि</td>
+<td>30</td>
+</tr>
+<tr>
+<td>विज्ञान एवं सरल अंक गणित</td>
+<td>30</td>
+</tr>
+<tr class="total">
+<td>Total</td>
+<td>100</td>
+</tr>
+</table>
+</div>
+
+<div class="notice">
+<strong>📌 Shortlisting Rule:</strong><br><br>
+Written examination के cutoff percentile के आधार
+पर advertised vertical category posts के मुकाबले
+7 गुना candidates को Physical Efficiency Test के
+लिए बुलाया जाएगा। Horizontal categories के लिए
+अलग cutoff percentile निर्धारित नहीं किया जाएगा।
+</div>
+
+</div>
+</section>
+
+
+<!-- PHYSICAL -->
+
+<section id="physical">
+<div class="container">
+
+<div class="heading">
+<small>08 • PHYSICAL EFFICIENCY TEST</small>
+<h2>Physical <span>100 Marks</span></h2>
+</div>
+
+<div class="physical-grid">
+
+<div class="physical-card">
+<div class="icon">🏃</div>
+<b>40</b>
+800 Meter Run
+</div>
+
+<div class="physical-card">
+<div class="icon">🦘</div>
+<b>30</b>
+Long Jump
+</div>
+
+<div class="physical-card">
+<div class="icon">🏋️</div>
+<b>30</b>
+Shot Put
+</div>
+
+</div>
+
+<div class="notice">
+<strong>महत्वपूर्ण:</strong><br><br>
+800 मीटर दौड़ के लिए 1 अवसर तथा Long Jump और
+Shot Put के लिए 3-3 अवसर दिए जाएंगे।
+Physical Efficiency Test अधिकतम 100 अंकों का है।
+</div>
+
+
+<h3 style="color:#38bdf8;margin-top:30px">
+👨 पुरुष -- सामान्य उम्मीदवार
+</h3>
+
+<div class="table-wrap">
+<table>
+<tr>
+<th>Activity</th>
+<th>Maximum Marks</th>
+<th>Maximum Performance</th>
+</tr>
+<tr>
+<td>800 Meter Run</td>
+<td>40</td>
+<td>124.2 सेकंड से कम</td>
+</tr>
+<tr>
+<td>Long Jump</td>
+<td>30</td>
+<td>5.57 मीटर से अधिक</td>
+</tr>
+<tr>
+<td>Shot Put</td>
+<td>30</td>
+<td>8.76 मीटर से अधिक</td>
+</tr>
+</table>
+</div>
+
+
+<h3 style="color:#38bdf8;margin-top:30px">
+👩 महिला -- सामान्य उम्मीदवार
+</h3>
+
+<div class="table-wrap">
+<table>
+<tr>
+<th>Activity</th>
+<th>Maximum Marks</th>
+<th>Maximum Performance</th>
+</tr>
+<tr>
+<td>800 Meter Run</td>
+<td>40</td>
+<td>176 सेकंड से कम</td>
+</tr>
+<tr>
+<td>Long Jump</td>
+<td>30</td>
+<td>4.36 मीटर से अधिक</td>
+</tr>
+<tr>
+<td>Shot Put</td>
+<td>30</td>
+<td>7.20 मीटर से अधिक</td>
+</tr>
+</table>
+</div>
+
+<div class="notice">
+<strong>🏠 Home Guard / Ex-Servicemen</strong><br><br>
+Rule Book में इनके लिए तीनों physical events में
+relaxed standards की अलग scoring tables दी गई हैं।
+</div>
+
+</div>
+</section>
+
+
+<!-- PHYSICAL SCORING -->
+
+<section>
+<div class="container">
+
+<div class="heading">
+<small>09 • PHYSICAL SCORING</small>
+<h2>Physical Marks <span>Breakdown</span></h2>
+</div>
+
+<div class="table-wrap">
+<table>
+<tr>
+<th>Event</th>
+<th>Maximum Marks</th>
+<th>Attempts</th>
+</tr>
+<tr>
+<td>800 Meter Running</td>
+<td>40</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Long Jump</td>
+<td>30</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Shot Put</td>
+<td>30</td>
+<td>3</td>
+</tr>
+<tr class="total">
+<td>Total</td>
+<td>100</td>
+<td>--</td>
+</tr>
+</table>
+</div>
+
+</div>
+</section>
+
+
+<!-- SELECTION -->
+
+<section id="selection">
+<div class="container">
+
+<div class="heading">
+<small>10 • SELECTION PROCESS</small>
+<h2>Selection <span>Process</span></h2>
+</div>
+
+<div class="timeline">
+
+<div class="step">
+<div class="num">1</div>
+<h3>Online Application</h3>
+<p>22 September 2026 से 06 October 2026 तक।</p>
+</div>
+
+<div class="step">
+<div class="num">2</div>
+<h3>Written Examination</h3>
+<p>100 प्रश्न, 100 अंक, 2 घंटे।</p>
+</div>
+
+<div class="step">
+<div class="num">3</div>
+<h3>7× Shortlisting</h3>
+<p>Category-wise cutoff percentile के आधार पर candidates shortlist होंगे।</p>
+</div>
+
+<div class="step">
+<div class="num">4</div>
+<h3>Physical Efficiency Test</h3>
+<p>अधिकतम 100 अंक।</p>
+</div>
+
+<div class="step">
+<div class="num">5</div>
+<h3>Document Verification</h3>
+<p>मूल प्रमाण-पत्रों की जांच।</p>
+</div>
+
+<div class="step">
+<div class="num">6</div>
+<h3>Medical / Character Verification</h3>
+<p>नियुक्ति से पहले निर्धारित verification।</p>
+</div>
+
+<div class="step">
+<div class="num">7</div>
+<h3>Final Merit</h
