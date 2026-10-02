@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Complete Exam Updates</title>
+
+<meta name="description"
+content="Complete Exam Updates - Latest Jobs, Admit Card, Results, Answer Key, Syllabus, Admission and Local Jobs">
+
+<style>
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family:Arial, sans-serif;
+    background:
+      radial-gradient(circle at top,#eef5ff,#dce6f3 45%,#c8d3e0);
+    color:#172033;
+}
+
+/* MAIN */
+
+.container{
+    width:100%;
+    max-width:1200px;
+    margin:auto;
+    padding:8px;
+}
+
+/* HEADER */
+
+.header{
+    background:linear-gradient(145deg,#ffffff,#dce5ef);
+    border-radius:16px;
+    padding:12px 10px;
+    text-align:center;
+
+    box-shadow:
+      0 7px 0 #9aa7b5,
+      0 12px 25px rgba(0,0,0,.20);
+
+    border:1px solid #fff;
+}
+
+.logo{
+    font-size:29px;
+    font-weight:900;
+    letter-spacing:1px;
+    text-transform:uppercase;
+
+    background:linear-gradient(90deg,#063970,#0066cc,#d71920);
+    -webkit-background-clip:text;
+    color:transparent;
+}
+
+.tagline{
+    font-size:12px;
+    margin-top:4px;
+    color:#536273;
+    font-weight:bold;
+}
+
+/* NAVIGATION */
+
+.nav{
+    margin-top:10px;
+    display:flex;
+    gap:5px;
+    overflow-x:auto;
+    padding-bottom:4px;
+}
+
+.nav button{
+    white-space:nowrap;
+    border:1px solid #b4bfcb;
+    border-radius:8px;
+    padding:7px 10px;
+
+    background:linear-gradient(#fff,#dfe7ef);
+
+    box-shadow:
+      0 3px 0 #a5afba,
+      0 5px 8px rgba(0,0,0,.15);
+
+    font-size:12px;
+    cursor:pointer;
+}
+
+/* SEARCH */
+
+.search{
+    display:flex;
+    margin:13px auto 8px;
+    max-width:850px;
+}
+
+.search input{
+    flex:1;
+    height:43px;
+    border:2px solid #1b3958;
+    border-right:0;
+    border-radius:10px 0 0 10px;
+    padding:0 14px;
+    font-size:15px;
+    outline:none;
+    background:white;
+}
+
+.search button{
+    width:55px;
+    border:2px solid #1b3958;
+    border-radius:0 10px 10px 0;
+    background:linear-gradient(145deg,#ffb52e,#ff7200);
+    color:white;
+    font-size:20px;
+    cursor:pointer;
+
+    box-shadow:0 3px 0 #b94c00;
+}
+
+/* TOP CATEGORY */
+
+.categories{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:8px;
+    margin:10px 0;
+}
+
+.category{
+    border:1px solid #b8c2cc;
+    border-radius:9px;
+    padding:10px 5px;
+    text-align:center;
+    font-weight:bold;
+    font-size:13px;
+
+    background:linear-gradient(145deg,#fff,#e4ebf3);
+
+    box-shadow:
+      0 4px 0 #9ba7b3,
+      0 7px 12px rgba(0,0,0,.16);
+
+    cursor:pointer;
+    transition:.2s;
+}
+
+.category:hover{
+    transform:translateY(-3px);
+}
+
+/* UPDATE BAR */
+
+.update{
+    background:linear-gradient(90deg,#071d38,#124c7a,#071d38);
+    color:white;
+    border-radius:9px;
+    padding:8px;
+    margin:10px 0;
+
+    box-shadow:
+      0 4px 0 #03101f,
+      0 7px 15px rgba(0,0,0,.25);
+
+    font-size:12px;
+    text-align:center;
+}
+
+/* MAIN GRID */
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:10px;
+}
+
+/* CARD */
+
+.card{
+    background:linear-gradient(145deg,#ffffff,#edf2f7);
+    border:1px solid #c6d0da;
+    border-radius:10px;
+    overflow:hidden;
+
+    box-shadow:
+      0 5px 0 #a5b0bb,
+      0 9px 16px rgba(0,0,0,.18);
+
+    transition:.2s;
+}
+
+.card:hover{
+    transform:translateY(-3px);
+    box-shadow:
+      0 7px 0 #929eaa,
+      0 13px 22px rgba(0,0,0,.22);
+}
+
+.card-head{
+    text-align:center;
+    padding:7px 3px;
+
+    background:
+      linear-gradient(145deg,#ffd76a,#ffb52e);
+
+    color:#172033;
+    font-size:20px;
+    font-weight:900;
+
+    border-bottom:2px solid #d49116;
+
+    text-shadow:0 1px white;
+}
+
+.card-body{
+    padding:5px 8px 8px;
+}
+
+/* JOB ITEMS */
+
+.item{
+    display:block;
+    text-decoration:none;
+    color:#183b76;
+
+    font-size:13px;
+    line-height:1.25;
+
+    padding:7px 2px;
+
+    border-bottom:1px dashed #c8c8c8;
+
+    cursor:pointer;
+}
+
+.item:before{
+    content:"▶";
+    color:#e26718;
+    font-size:9px;
+    margin-right:5px;
+}
+
+.item:hover{
+    color:#d71920;
+    background:#fff8df;
+}
+
+/* NEW LABEL */
+
+.new{
+    display:inline-block;
+    background:#d71920;
+    color:white;
+    font-size:8px;
+    padding:2px 4px;
+    border-radius:4px;
+    margin-left:3px;
+}
+
+/* MORE */
+
+.more{
+    display:block;
+    text-align:right;
+    color:#d65b13;
+    font-size:11px;
+    font-weight:bold;
+    padding:8px 2px 3px;
+    text-decoration:none;
+}
+
+/* WIDE CARD */
+
+.wide{
+    grid-column:span 3;
+}
+
+/* LOCATION */
+
+.location{
+    margin-top:12px;
+    background:linear-gradient(145deg,#fff,#e8eef5);
+    border-radius:10px;
+    padding:12px;
+
+    box-shadow:
+      0 5px 0 #9da9b5,
+      0 8px 18px rgba(0,0,0,.18);
+}
+
+.location h2{
+    font-size:19px;
+    text-align:center;
+    margin-bottom:9px;
+}
+
+.location-grid{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:7px;
+}
+
+.location button{
+    padding:8px 4px;
+    border:1px solid #bbc5cf;
+    border-radius:7px;
+    background:linear-gradient(#fff,#dfe6ed);
+    box-shadow:0 3px 0 #a1acb7;
+    cursor:pointer;
+    font-size:12px;
+}
+
+/* FOOTER */
+
+footer{
+    margin-top:15px;
+    background:linear-gradient(145deg,#16202b,#05090d);
+    color:white;
+    text-align:center;
+    padding:22px 8px;
+    border-radius:10px;
+
+    box-shadow:
+      0 -4px 0 #394552,
+      0 5px 15px rgba(0,0,0,.3);
+}
+
+footer h2{
+    font-size:20px;
+}
+
+footer p{
+    margin-top:5px;
+    font-size:11px;
+    color:#cbd5df;
+}
+
+.footer-links{
+    margin-top:12px;
+}
+
+.footer-links a{
+    color:#fff;
+    text-decoration:none;
+    font-size:11px;
+    margin:0 5px;
+}
+
+/* WHATSAPP */
+
+.whatsapp{
+    position:fixed;
+    right:15px;
+    bottom:15px;
+
+    width:52px;
+    height:52px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    border-radius:50%;
+
+    background:linear-gradient(145deg,#43e878,#08a83f);
+    color:white;
+
+    font-size:26px;
+
+    box-shadow:
+      0 5px 0 #08742e,
+      0 8px 18px rgba(0,0,0,.3);
+
+    text-decoration:none;
+}
+
+/* DESKTOP */
+
+@media(min-width:800px){
+
+    .container{
+        padding:15px;
+    }
+
+    .logo{
+        font-size:38px;
+    }
+
+    .grid{
+        gap:15px;
+    }
+
+    .card-body{
+        min-height:250px;
+    }
+}
+
+/* MOBILE */
+
+@media(max-width:600px){
+
+    .container{
+        padding:6px;
+    }
+
+    .logo{
+        font-size:25px;
+    }
+
+    .tagline{
+        font-size:10px;
+    }
+
+    .categories{
+        gap:5px;
+    }
+
+    .category{
+        font-size:11px;
+        padding:9px 2px;
+    }
+
+    .grid{
+        grid-template-columns:repeat(3,1fr);
+        gap:5px;
+    }
+
+    .wide{
+        grid-column:span 3;
+    }
+
+    .card{
+        border-radius:7px;
+    }
+
+    .card-head{
+        font-size:16px;
+        padding:6px 2px;
+    }
+
+    .card-body{
+        padding:3px 5px 5px;
+    }
+
+    .item{
+        font-size:11px;
+        padding:6px 0;
+    }
+
+    .more{
+        font-size:9px;
+    }
+
+    .location-grid{
+        grid-template-columns:repeat(2,1fr);
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- HEADER -->
+
+<header class="header">
+
+    <div class="logo">
+        COMPLETE EXAM UPDATES
+    </div>
+
+    <div class="tagline">
+        भारत की सरकारी नौकरी • परीक्षा • रिजल्ट • शिक्षा • स्थानीय रोजगार
+    </div>
+
+    <div class="nav">
+        <button>🏠 Home</button>
+        <button>💼 Jobs</button>
+        <button>🎫 Admit Card</button>
+        <button>📊 Results</button>
+        <button>🔑 Answer Key</button>
+        <button>📚 Syllabus</button>
+        <button>🎓 Admission</button>
+        <button>📄 Forms</button>
+    </div>
+
+</header>
+
+
+<!-- SEARCH -->
+
+<div class="search">
+
+    <input
+        id="searchInput"
+        type="text"
+        placeholder="नौकरी, परीक्षा, रिजल्ट या Admit Card खोजें..."
+        onkeyup="searchItems()">
+
+    <button onclick="searchItems()">🔍</button>
+
+</div>
+
+
+<!-- CATEGORY -->
+
+<div class="categories">
+
+    <div class="category" onclick="categoryAlert('सरकारी नौकरी')">
+        🏛️ सरकारी नौकरी
+    </div>
+
+    <div class="category" onclick="categoryAlert('सरकारी काम')">
+        📋 सरकारी काम
+    </div>
+
+    <div class="category" onclick="categoryAlert('प्राइवेट नौकरी')">
+        🏢 प्राइवेट नौकरी
+    </div>
+
+</div>
+
+
+<!-- UPDATE -->
+
+<div class="update">
+    🔴 LATEST UPDATE : Complete Exam Updates पर नई भर्ती और परीक्षा अपडेट देखें
+</div>
+
+
+<!-- MAIN 9 BOXES -->
+
+<div class="grid">
+
+
+<!-- LATEST JOBS -->
+
+<div class="card">
+
+<div class="card-head">Latest Jobs</div>
+
+<div class="card-body">
+
+<a class="item" href="#">MP Police Constable Bharti 2026 <span class="new">NEW</span></a>
+<a class="item" href="#">SSC CHSL 10+2 Vacancy 2026</a>
+<a class="item" href="#">SSC CGL Recruitment 2026</a>
+<a class="item" href="#">RRB NTPC Vacancy 2026</a>
+<a class="item" href="#">MPESB Group 3 Recruitment</a>
+<a class="item" href="#">MP Forest Department Vacancy</a>
+<a class="item" href="#">Railway Apprentice Recruitment</a>
+<a class="item" href="#">Banking Jobs 2026</a>
+
+<a class="more" href="#">View More Jobs →</a>
+
+</div>
+</div>
+
+
+<!-- ADMIT CARD -->
+
+<div class="card">
+
+<div class="card-head">Admit Cards</div>
+
+<div class="card-body">
+
+<a class="item" href="#">MP Police Admit Card 2026</a>
+<a class="item" href="#">SSC CGL Admit Card 2026</a>
+<a class="item" href="#">SSC CHSL Admit Card 2026</a>
+<a class="item" href="#">RRB NTPC Admit Card 2026</a>
+<a class="item" href="#">Railway Technician Admit Card</a>
+<a class="item" href="#">MPESB Exam Admit Card</a>
+<a class="item" href="#">UP Police Admit Card</a>
+<a class="item" href="#">Bank Exam Admit Card</a>
+
+<a class="more" href="#">More Admit Cards →</a>
+
+</div>
+</div>
+
+
+<!-- RESULTS -->
+
+<div class="card">
+
+<div class="card-head">Results</div>
+
+<div class="card-body">
+
+<a class="item" href="#">MP Police Result 2026</a>
+<a class="item" href="#">SSC CGL Result 2026</a>
+<a class="item" href="#">SSC CHSL Result 2026</a>
+<a class="item" href="#">RRB NTPC Result 2026</a>
+<a class="item" href="#">MPESB Result 2026</a>
+<a class="item" href="#">Railway Result 2026</a>
+<a class="item" href="#">MP Board Result 2026</a>
+<a class="item" href="#">University Results</a>
+
+<a class="more" href="#">View More Results →</a>
+
+</div>
+</div>
+
+
+<!-- ANSWER KEY -->
+
+<div class="card">
+
+<div class="card-head">Answer Key</div>
+
+<div class="card-body">
+
+<a class="item" href="#">MP Police Answer Key</a>
+<a class="item" href="#">SSC CGL Answer Key</a>
+<a class="item" href="#">SSC CHSL Answer Key</a>
+<a class="item" href="#">RRB NTPC Answer Key</a>
+<a class="item" href="#">MPESB Answer Key</a>
+<a class="item" href="#">Railway Answer Key</a>
+<a class="item" href="#">MP Board Answer Key</a>
+
+<a class="more" href="#">More Answer Keys →</a>
+
+</div>
+</div>
+
+
+<!-- SYLLABUS -->
+
+<div class="card">
+
+<div class="card-head">Syllabus</div>
+
+<div class="card-body">
+
+<a class="item" href="#">MP Police Syllabus</a>
+<a class="item" href="#">SSC CGL Syllabus</a>
+<a class="item" href="#">SSC CHSL Syllabus</a>
+<a class="item" href="#">RRB NTPC Syllabus</a>
+<a class="item" href="#">MPESB Syllabus</a>
+<a class="item" href="#">Railway Syllabus</a>
+<a class="item" href="#">Bank Exam Syllabus</a>
+
+<a class="more" href="#">View More Syllabus →</a>
+
+</div>
+</div>
+
+
+<!-- ADMISSION -->
+
+<div class="card">
+
+<div class="card-head">Admission</div>
+
+<div class="card-body">
+
+<a class="item" href="#">College Admission 2026</a>
+<a class="item" href="#">University Admission</a>
+<a class="item" href="#">ITI Admission</a>
+<a class="item" href="#">Polytechnic Admission</a>
+<a class="item" href="#">JNV Admission</a>
+<a class="item" href="#">Sainik School Admission</a>
+<a class="item" href="#">Scholarship Updates</a>
+
+<a class="more" href="#">More Admission →</a>
+
+</div>
+</div>
+
+
+<!-- CERTIFICATES -->
+
+<div class="card">
+
+<div class="card-head">Certificates</div>
+
+<div class="card-body">
+
+<a class="item" href="#">जाति प्रमाण पत्र</a>
+<a class="item" href="#">आय प्रमाण पत्र</a>
+<a class="item" href="#">निवास प्रमाण पत्र</a>
+<a class="item" href="#">EWS Certificate</a>
+<a class="item" href="#">Birth Certificate</a>
+<a class="item" href="#">Character Certificate</a>
+<a class="item" href="#">Disability Certificate</a>
+
+<a class="more" href="#">More Certificates →</a>
+
+</div>
+</div>
+
+
+<!-- DOCUMENTS -->
+
+<div class="card">
+
+<div class="card-head">Documents</div>
+
+<div class="card-body">
+
+<a class="item" href="#">Important Documents</a>
+<a class="item" href="#">Job Application Documents</a>
+<a class="item" href="#">Exam Forms PDF</a>
+<a class="item" href="#">Scholarship Documents</a>
+<a class="item" href="#">College Documents</a>
+<a class="item" href="#">Download Forms</a>
+<a class="item" href="#">Important PDF</a>
+
+<a class="more" href="#">More Documents →</a>
+
+</div>
+</div>
+
+
+<!-- OFFLINE -->
+
+<div class="card">
+
+<div class="card-head">Offline Jobs</div>
+
+<div class="card-body">
+
+<a class="item" href="#">Beenaganj Local Jobs</a>
+<a class="item" href="#">Chachoura Local Jobs</a>
+<a class="item" href="#">Raghogarh Local Jobs</a>
+<a class="item" href="#">Guna Private Jobs</a>
+<a class="item" href="#">Shop & Showroom Jobs</a>
+<a class="item" href="#">Factory Jobs</a>
+<a class="item" href="#">Warehouse Jobs</a>
+
+<a class="more" href="#">View More Local Jobs →</a>
+
+</div>
+</div>
+
+</div>
+
+
+<!-- LOCATION -->
+
+<div class="location">
+
+<h2>📍 State → District → Tehsil → City Jobs</h2>
+
+<div class="location-grid">
+
+<button>मध्य प्रदेश</button>
+<button>गुना</button>
+<button>चाचौड़ा</button>
+<button>बीनागंज</button>
+<button>राघोगढ़</button>
+<button>इंदौर</button>
+<button>भोपाल</button>
+<button>ग्वालियर</button>
+
+</div>
+
+</div>
+
+
+<!-- FOOTER -->
+
+<footer>
+
+<h2>COMPLETE EXAM UPDATES</h2>
+
+<p>
+सरकारी नौकरी • परीक्षा • Result • Admit Card • Local Jobs
+</p>
+
+<div class="footer-links">
+
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Contact</a>
+<a href="#">Privacy</a>
+<a href="#">Disclaimer</a>
+
+</div>
+
+<p style="margin-top:12px;">
+© 2026 Complete Exam Updates
+</p>
+
+</footer>
+
+</div>
+
+
+<!-- WHATSAPP -->
+
+<a class="whatsapp"
+href="https://wa.me/"
+target="_blank">
+💬
+</a>
+
+
+<script>
+
+/* SEARCH */
+
+function searchItems(){
+
+    let search =
+    document.getElementById("searchInput")
+    .value
+    .toLowerCase()
+    .trim();
+
+    let items =
+    document.querySelectorAll(".item");
+
+    items.forEach(function(item){
+
+        let text =
+        item.innerText.toLowerCase();
+
+        if(text.includes(search)){
+            item.style.display="block";
+        }
+        else{
+            item.style.display="none";
+        }
+
+    });
+
+}
+
+
+/* CATEGORY */
+
+function categoryAlert(name){
+
+    alert(
+        name +
+        " सेक्शन Complete Exam Updates में जल्द उपलब्ध होगा।"
+    );
+
+}
+
+</script>
+
+</body>
+      </html>
